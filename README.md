@@ -91,5 +91,5 @@ Interactive Jupyter notebooks for data exploration and advanced analysis:
 ## 📫 Contact
 
 Created by **Holly Williams-Gardner**  
-- GitHub: https://github.com/hollywg01  
+- GitHub: https://github.com/hollyw01  
 - LinkedIn: https://www.linkedin.com/in/holly-w-aab8721a0
