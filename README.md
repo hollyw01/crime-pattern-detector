@@ -29,11 +29,7 @@ crime-pattern-detector/
 ├── LICENSE
 └── README.md
 
----
-
 ## 📓 Notebooks
-
-Once the notebooks are uploaded to the `notebooks/` folder, you can open them directly from GitHub:
 
 - [`crime_pattern_exploration.ipynb`](https://github.com/hollywg01/crime-pattern-detector/blob/main/notebooks/crime_pattern_exploration.ipynb) — first exploratory analysis of crime categories, trends, and locations.
 
